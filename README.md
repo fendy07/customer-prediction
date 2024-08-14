@@ -12,5 +12,6 @@ license: mit
 
 ## Customer Retail Prediction (Case: Turkey Customer)
 
+<p>This project involves predicting customer behavior based on their purchases in a Turkish shopping center's product categories.</p>
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
