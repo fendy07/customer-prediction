@@ -1,5 +1,4 @@
 ## Customer Retail Prediction (Case: Turkey Customer)
-
 ---
 title: Customer Prediction
 emoji: 🐨
