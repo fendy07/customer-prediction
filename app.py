@@ -30,7 +30,7 @@ page = st.navigation(
 )
 
 st.sidebar.info("Source code, find in My Github:")
-st.sidebar.link_button("Github Source", "")
+st.sidebar.link_button("Github Source", "https://github.com/fendy07/customer-prediction")
 st.sidebar.text(f'Created by Fendy Hendriyanto 👨🏼‍💻')
 
 page.run()
