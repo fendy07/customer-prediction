@@ -1,0 +1,8 @@
+# environments
+customer-predict/
+.venv/
+
+# model files
+/model/
+*.pkl
+*.joblib
