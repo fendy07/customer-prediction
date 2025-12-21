@@ -14,4 +14,4 @@ license: mit
 
 <p>This project involves predicting customer behavior based on their purchases in a Turkish shopping center's product categories.</p>
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the configuration reference at https://huggingface.co/spaces/fendy07/customer-predict
